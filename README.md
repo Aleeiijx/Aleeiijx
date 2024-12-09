@@ -1,6 +1,3 @@
-Here's the updated `README.md` with screenshots using Markdown code syntax:
-
-```markdown
 # VOTE - Virtual Online Transparent Elections
 
 [![Java](https://img.shields.io/badge/Java-Programming-orange)](https://www.oracle.com/java/)  
@@ -97,35 +94,3 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/voting-system.git
 cd voting-system
-```
-
-### 2. Compile the Program
-Compile the Java files:
-```bash
-javac vote.java
-```
-
-### 3. Run the Program
-Execute the compiled program:
-```bash
-java vote
-```
-
-### 4. Interacting with the Program
-- **Sign Up (Voter)**: Register with your ID, name, and age (must be 18+).  
-- **Sign In (Voter)**: Log in and cast your vote.  
-- **Admin Login**: Log in as an admin to manage elections (default password: `admin123`).  
-- **Exit**: Quit the program.
-
----
-
-### Notes:
-- Add your screenshots to a `screenshots` folder within the repository.  
-- Replace the placeholder image paths (`screenshots/filename.png`) with actual paths for your screenshots.  
-```
-
-### Instructions for Adding Screenshots
-1. Save your screenshots in a folder named `screenshots` in your repository.  
-2. Replace the `filename.png` placeholders in the above code with the actual filenames of your screenshots.  
-
-This code is ready to be copied into your `README.md` file!
