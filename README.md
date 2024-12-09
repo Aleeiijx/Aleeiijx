@@ -1,6 +1,6 @@
 # VOTE - Virtual Online Transparent Elections
 
-[Visual Studio Code Java documentation](https://code.visualstudio.com/docs/languages/java).
+[![Java](https://img.shields.io/badge/Java-Programming-orange)](https://www.oracle.com/java/)  
 [![SDG 16](https://img.shields.io/badge/SDG-16-blue)](https://sdgs.un.org/goals/goal16)  
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/yourusername/voting-system)
 
